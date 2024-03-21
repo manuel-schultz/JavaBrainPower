@@ -1,18 +1,21 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Difficulties
+## Mathtrainer Level 1
+Generates a math example that adds or subtracts 2 to 4 numbers between 0 and 100.
+Examples:
+```
+87 + 29 + 24 - 43 = 97
+92 + 49 = 141
+42 + 16 - 62 = -4
+18 - 39 - 28 + 34 = -15
+```
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Mathtrainer Level 2
+Generates a math example that adds or subtracts 3 to 8 numbers between -100 and 100.
+Examples:
+```
+-79 - 88 + 0 - 85 - 86 = -338
+35 + -92 - -40 - 50 + 76 - 88 = -79
+1 + -45 + -43 + 83 = -4
+9 + 82 - -94 + -33 - -63 = 215
+```
